@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @OpenSubmarine-X
-- 👀 I’m interested in AI application
+- 👀 I’m interested in Bandit algorithm and deep learning
 - 🌱 I’m currently learning Morden cpp and Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Please send email to my school email mingwen@link.cuhk.edu.cn
-  or my gmail wen123090613@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me :
+    Please send email to my school email mingwen@link.cuhk.edu.cn
+    or my gmail wen123090613@gmail.com
 
 <!---
 OpenSubmarine-X/OpenSubmarine-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
